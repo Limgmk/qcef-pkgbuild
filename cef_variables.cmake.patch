@@ -1,0 +1,4 @@
+86c86
+<     -Werror                         # Treat warnings as errors
+---
+> 	#-Werror                         # Treat warnings as errors
